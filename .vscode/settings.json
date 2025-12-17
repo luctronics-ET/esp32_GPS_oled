@@ -1,3 +1,11 @@
 {
-    "idf.flashType": "JTAG"
+    "idf.flashType": "JTAG",
+    "chat.mcp.serverSampling": {
+        "esp32_GPS_oled/.vscode/mcp.json: sunriseapps/imagesorcery-mcp": {
+            "allowedModels": [
+                "copilot/claude-sonnet-4.5",
+                "copilot/auto"
+            ]
+        }
+    }
 }
